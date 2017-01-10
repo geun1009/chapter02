@@ -8,7 +8,9 @@ public class PaintApp {
 		pt1.setX( 100 );
 		pt1.setY( 200 );
 		pt1.show();
-
+		
+		pt1.show(false);
+		pt1.show();//show(true);
 	}
 
 }
